@@ -12,7 +12,7 @@ There is includes billable components of Equinix. You can also [check out the Eq
 
 The following diagram shows the architecture that you create in this article:
 
-![Network Architecture](../images/routeserver-transit-er-gw/lab-architeture.png)
+![Network Architecture](./images/lab-architeture.png)
 
 
  All Azure and AWS configs are done in Azure CLI or AWS CLI, and you can change them as needed to match your environment. 
